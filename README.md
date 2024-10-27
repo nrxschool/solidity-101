@@ -1,1 +1,0 @@
-# nearx-solidity101
