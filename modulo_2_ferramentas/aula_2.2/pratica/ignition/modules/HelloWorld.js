@@ -23,4 +23,5 @@ module.exports = buildModule("HelloWorld" /*identificador do módulo*/, (m) => {
 });
 
 // npx hardhat ignition visualize ignition/modules/HelloWorld.js 
+// npx hardhat ignition deploy ignition/modules/HelloWorld.js --network localhost
 
