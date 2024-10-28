@@ -56,6 +56,5 @@
 
 **Materiais Complementares:**
 
-- [O que é a Máquina Virtual Ethereum (EVM)? - Coinbase](https://www.coinbase.com/pt-br/learn/crypto-glossary/what-is-the-ethereum-virtual-machine)
-- [Ethereum Virtual Machine (EVM): O Que é E Como Funciona? - Bitso Blog](https://blog.bitso.com/pt-br/tecnologia/ethereum-virtual-machine)
 - [Understanding Blockchain Consensus Mechanisms](https://youtu.be/ojxfbN78WFQ)
+- [EVM Codes - About](https://www.evm.codes/about)
