@@ -1,9 +1,25 @@
 # Solidity 101
 
-**Conheça o Instrutor**
 
-- [Vinicius Chagas](https://www.linkedin.com/in/viniciushenriquechagas/)
-- Sou Fundador e CEO da HOUS3, que é uma fábrica de software focada na nova economia digital. Participei da primeira e segunda emissão de um Security Token do Brasil, no valor de 82 milhões de reais, em 2021. Sou Pesquisador e Desenvolvedor Blockchain no Programa Ilíada, um projeto do Governo Federal. Sou professor do MBA em Digital Finance do Ibmec e também de cursos sobre a tecnologia blockchain e tokenização para instituições como Abcripto, Banco Central do Brasil, Comissão de Valores Mobiliários, e aqui nesse nosso curso. Venci 5 Hackathons internacionais no ano de 2023 no ecossistema do Ethereum, em países como Argentina, Cingapura. Sou formado em Direito e Análise de Sistemas, com especialização em Arquitetura de Soluções e Arquitetura de Software. 
+# NearX
+Se você ainda não entendeu, a NearX é um ecosistema de aprendizagem com uma comunidade de mais de 2.000 alunos.
+
+Nós produzimos bootcamps, hackathons, mentorias, dojos e aceleração de carreiras.
+
+Já fizemos parcerias com:
+
+Animoca Brands
+Stellar
+Optimism
+Arbitrum
+Starknet
+
+# Conheça o Instrutor
+
+[Vinicius Chagas](https://www.linkedin.com/in/viniciushenriquechagas/)
+
+Sou Fundador e CEO da HOUS3, que é uma fábrica de software focada na nova economia digital. Participei da primeira e segunda emissão de um Security Token do Brasil, no valor de 82 milhões de reais, em 2021. Sou Pesquisador e Desenvolvedor Blockchain no Programa Ilíada, um projeto do Governo Federal. Sou professor do MBA em Digital Finance do Ibmec e também de cursos sobre a tecnologia blockchain e tokenização para instituições como Abcripto, Banco Central do Brasil, Comissão de Valores Mobiliários, e aqui nesse nosso curso. Venci 5 Hackathons internacionais no ano de 2023 no ecossistema do Ethereum, em países como Argentina, Cingapura. Sou formado em Direito e Análise de Sistemas, com especialização em Arquitetura de Soluções e Arquitetura de Software. 
+
 
 **Módulo Extra: Como usar IA para estudar**
 - Como usar a Fênix nos seus estudos?
