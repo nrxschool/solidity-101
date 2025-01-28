@@ -1,0 +1,142 @@
+[
+  {
+      "anonymous": false,
+      "inputs": [
+          {
+              "indexed": true,
+              "internalType": "address",
+              "name": "token",
+              "type": "address"
+          },
+          {
+              "indexed": true,
+              "internalType": "address",
+              "name": "to",
+              "type": "address"
+          }
+      ],
+      "name": "TransferSuccess",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+          {
+              "indexed": true,
+              "internalType": "address",
+              "name": "token",
+              "type": "address"
+          },
+          {
+              "indexed": true,
+              "internalType": "address",
+              "name": "to",
+              "type": "address"
+          },
+          {
+              "indexed": false,
+              "internalType": "string",
+              "name": "reason",
+              "type": "string"
+          }
+      ],
+      "name": "TransferFailure",
+      "type": "event"
+  },
+  {
+      "inputs": [],
+      "name": "estado",
+      "outputs": [
+          {
+              "internalType": "bool",
+              "name": "",
+              "type": "bool"
+          }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+  },
+  {
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
+          {
+              "internalType": "address",
+              "name": "",
+              "type": "address"
+          }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+  },
+  {
+      "inputs": [],
+      "name": "valor",
+      "outputs": [
+          {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+          }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+  },
+  {
+      "inputs": [
+          {
+              "internalType": "uint256",
+              "name": "_nuevoValor",
+              "type": "uint256"
+          }
+      ],
+      "name": "cambiarEstado",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+  },
+  {
+      "inputs": [
+          {
+              "internalType": "bool",
+              "name": "_nuevoEstado",
+              "type": "bool"
+          }
+      ],
+      "name": "mudarEstado",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+  },
+  {
+      "inputs": [
+          {
+              "internalType": "uint256",
+              "name": "_quantia",
+              "type": "uint256"
+          }
+      ],
+      "name": "retirar",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+  },
+  {
+      "inputs": [
+          {
+              "internalType": "address",
+              "name": "_contrato",
+              "type": "address"
+          },
+          {
+              "internalType": "bytes",
+              "name": "_dados",
+              "type": "bytes"
+          }
+      ],
+      "name": "llamarContratoExterno",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+  }
+]

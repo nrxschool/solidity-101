@@ -52,13 +52,13 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 7: Modificadores de Variables](modulo_3_fundamentos_solidity/clase_7/clase_7.md)
 
 
-# Módulo 4: Funções, Armazenamento e Boas Práticas
+# Módulo 4: Funciones, Almacenamiento y Buenas Prácticas
 
-- [Aula 1: Funções em Solidity](modulo_4_funcoes_armazenamento_boas_praticas/aula_1/aula_1.md)
-- [Aula 2: Eventos: Notificando o Mundo Exterior](modulo_4_funcoes_armazenamento_boas_praticas/aula_2/aula_2.md)
-- [Aula 3: Armazenamento de Dados: Memory, Calldata e Storage](modulo_4_funcoes_armazenamento_boas_praticas/aula_3/aula_3.md)
-- [Aula 4: Escrevendo Código Seguro](modulo_4_funcoes_armazenamento_boas_praticas/aula_4/aula_4.md)
-- [Aula 5: Modificadores de Função em Solidity](modulo_4_funcoes_armazenamento_boas_praticas/aula_5/aula_5.md)
+- [Clase 1: Funciones en Solidity](modulo_4_funciones_almacenamiento_buenas_practicas/clase_1/clase_1.md)
+- [Clase 2: Eventos: Notificando al Mundo Exterior](modulo_4_funciones_almacenamiento_buenas_practicas/clase_2/clase_2.md)
+- [Clase 3: Almacenamiento de Datos: Memory, Calldata y Storage](modulo_4_funciones_almacenamiento_buenas_practicas/clase_3/clase_3.md)
+- [Clase 4: Escribiendo Código Seguro](modulo_4_funciones_almacenamiento_buenas_practicas/clase_4/clase_4.md)
+- [Clase 5: Modificadores de Función en Solidity](modulo_4_funciones_almacenamiento_buenas_practicas/clase_5/clase_5.md)
 
 # Módulo 5: Dados Avançados e Interação Externa
 
