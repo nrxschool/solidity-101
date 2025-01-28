@@ -60,13 +60,13 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 4: Escribiendo Código Seguro](modulo_4_funciones_almacenamiento_buenas_practicas/clase_4/clase_4.md)
 - [Clase 5: Modificadores de Función en Solidity](modulo_4_funciones_almacenamiento_buenas_practicas/clase_5/clase_5.md)
 
-# Módulo 5: Dados Avançados e Interação Externa
+# Módulo 5: Datos Avanzados e Interacción Externa
 
-- [Aula 1: Tipos de Dados Complexos: Structs](modulo_5_dados_avancados_interacao_externa/aula_1/aula_1.md)
-- [Aula 2: Contratos Abstratos e Interfaces: Definindo um Modelo](modulo_5_dados_avancados_interacao_externa/aula_2/aula_2.md)
-- [Aula 3: `virtual` e `override`: Herança e Polimorfismo](modulo_5_dados_avancados_interacao_externa/aula_3/aula_3.md)
-- [Aula 4: `fallback` e `receive`: Recebendo Ether](modulo_5_dados_avancados_interacao_externa/aula_4/aula_4.md)
-- [Aula 5: Controle de Acesso Baseado em Funções (RBAC)](modulo_5_dados_avancados_interacao_externa/aula_5/aula_5.md)
+- [Clase 1: Tipos de Datos Complejos: Structs](modulo_5_datos_avanzados_interaccion_externa/clase_1/clase_1.md)
+- [Clase 2: Contratos Abstractos e Interfaces: Definiendo un Modelo](modulo_5_datos_avanzados_interaccion_externa/clase_2/clase_2.md)
+- [Clase 3: `virtual` y `override`: Herencia y Polimorfismo](modulo_5_datos_avanzados_interaccion_externa/clase_3/clase_3.md)
+- [Clase 4: `fallback` y `receive`: Recibiendo Ether](modulo_5_datos_avanzados_interaccion_externa/clase_4/clase_4.md)
+- [Clase 5: Control de Acceso Basado en Funciones (RBAC)](modulo_5_datos_avanzados_interaccion_externa/clase_5/clase_5.md)
 
 
 # Módulo 6: Testes e Deploy
