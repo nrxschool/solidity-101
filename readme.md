@@ -41,7 +41,6 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 1: Herramientas Esenciales](modulo_2_herramientas/clase_1/clase_1.md)
 - [Clase 2: Creando tu Primer Proyecto con Hardhat](modulo_2_herramientas/clase_2/clase_2.md)
 
-
 # Módulo 3: Fundamentos Solidity
 
 - [Aula 1: Solidity: Pensando Diferente](modulo_3_fundamentos_solidity/aula_1/aula_1.md)
