@@ -69,13 +69,14 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 5: Control de Acceso Basado en Funciones (RBAC)](modulo_5_datos_avanzados_interaccion_externa/clase_5/clase_5.md)
 
 
-# Módulo 6: Testes e Deploy
+# Módulo 6: Pruebas y Despliegue
 
-- [Aula 1: Compilando e Implantando seu Contrato](modulo_6_testes_e_deploy/aula_1/aula_1.md)
-- [Aula 2: Ecossistema Ethereum: ethers.js e web3.js](modulo_6_testes_e_deploy/aula_2/aula_2.md)
-- [Aula 3: Provedores RPC: Infura e Alchemy](modulo_6_testes_e_deploy/aula_3/aula_3.md)
-- [Aula 4: OpenZeppelin e Thirdweb: Construindo Contratos Seguros e Conectando com o Ecossistema Web3](modulo_6_testes_e_deploy/aula_4/aula_4.md)
-- [Aula 5: Testes Unitários com Hardhat](modulo_6_testes_e_deploy/aula_5/aula_5.md)
+- [Clase 1: Compilando e Implementando tu Contrato](modulo_6_pruebas_y_despliegue/clase_1/clase_1.md)  
+- [Clase 2: Ecosistema Ethereum: ethers.js y web3.js](modulo_6_pruebas_y_despliegue/clase_2/clase_2.md)  
+- [Clase 3: Proveedores RPC: Infura y Alchemy](modulo_6_pruebas_y_despliegue/clase_3/clase_3.md)  
+- [Clase 4: OpenZeppelin y Thirdweb: Construyendo Contratos Seguros y Conectando con el Ecosistema Web3](modulo_6_pruebas_y_despliegue/clase_4/clase_4.md)  
+- [Clase 5: Pruebas Unitarias con Hardhat](modulo_6_pruebas_y_despliegue/clase_5/clase_5.md)  
+
 
 # Módulo 7: Projetos
 
