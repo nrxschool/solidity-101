@@ -2,27 +2,27 @@
 pragma solidity ^0.8.26;
 
 contract Variables {
-    // State variables are stored on the blockchain.
-    string public text = "Hello";
-    uint256 public num = 123;
-    uint256 public ultimaChamada;
+    // Las variables de estado se almacenan en la blockchain.
+    string public texto = "Hola";
+    uint256 public numero = 123;
+    uint256 public ultimaLlamada;
 
-    function doSomething() view public {
-        // Local variables are not saved to the blockchain.
+    function hacerAlgo() view public {
+        // Las variables locales no se guardan en la blockchain.
         uint256 i = 456;
 
-        // Here are some global variables
-        uint256 timestamp = block.timestamp; // Current block timestamp
-        address sender = msg.sender; // address of the caller
+        // Aquí hay algunas variables globales
+        uint256 timestamp = block.timestamp; // Marca de tiempo del bloque actual
+        address remitente = msg.sender; // Dirección del remitente de la llamada
     }
 
-    // Função que registra o timestamp atual na variável 'ultimaChamada'
-    function atualizarTimestamp() public {
-        ultimaChamada = block.timestamp;
+    // Función que registra el timestamp actual en la variable 'ultimaLlamada'
+    function actualizarTimestamp() public {
+        ultimaLlamada = block.timestamp;
     }
 
-    // Função que retorna o saldo atual do contrato
-    function obterSaldo() public view returns (uint256) {
+    // Función que retorna el saldo actual del contrato
+    function obtenerSaldo() public view returns (uint256) {
         return address(this).balance;
     }
 }

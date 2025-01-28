@@ -41,14 +41,16 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 1: Herramientas Esenciales](modulo_2_herramientas/clase_1/clase_1.md)
 - [Clase 2: Creando tu Primer Proyecto con Hardhat](modulo_2_herramientas/clase_2/clase_2.md)
 
-# Módulo 3: Fundamentos Solidity
+# Módulo 3: Fundamentos de Solidity
 
-- [Aula 1: Solidity: Pensando Diferente](modulo_3_fundamentos_solidity/aula_1/aula_1.md)
-- [Aula 2: Tipos de Dados em Solidity (Parte 1)](modulo_3_fundamentos_solidity/aula_2/aula_2.md)
-- [Aula 3: Tipos de Dados em Solidity (Parte 2)](modulo_3_fundamentos_solidity/aula_3/aula_3.md)
-- [Aula 4: Tipos de Dados em Solidity (Parte 3)](modulo_3_fundamentos_solidity/aula_4/aula_4.md)
-- [Aula 5: Anatomia de um Contrato Solidity](modulo_3_fundamentos_solidity/aula_5/aula_5.md)
-- [Aula 6: Variáveis Globais em Solidity](modulo_3_fundamentos_solidity/aula_6/aula_6.md)
+- [Clase 1: Solidity: Pensando Diferente](modulo_3_fundamentos_solidity/clase_1/clase_1.md)
+- [Clase 2: Tipos de Datos en Solidity (Parte 1)](modulo_3_fundamentos_solidity/clase_2/clase_2.md)
+- [Clase 3: Tipos de Datos en Solidity (Parte 2)](modulo_3_fundamentos_solidity/clase_3/clase_3.md)
+- [Clase 4: Tipos de Datos en Solidity (Parte 3)](modulo_3_fundamentos_solidity/clase_4/clase_4.md)
+- [Clase 5: Anatomía de un Contrato en Solidity](modulo_3_fundamentos_solidity/clase_5/clase_5.md)
+- [Clase 6: Variables Globales en Solidity](modulo_3_fundamentos_solidity/clase_6/clase_6.md)
+- [Clase 7: Modificadores de Variables](modulo_3_fundamentos_solidity/clase_7/clase_7.md)
+
 
 # Módulo 4: Funções, Armazenamento e Boas Práticas
 

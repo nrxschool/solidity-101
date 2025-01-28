@@ -5,7 +5,7 @@ const { buildModule } = require("@nomicfoundation/hardhat-ignition/modules");
 
 const INITIAL_BALANCE = 100; 
 
-module.exports = buildModule("Estrutura", (m) => {
+module.exports = buildModule("Estructura", (m) => {
   const initialBalance = m.getParameter("initialBalance", INITIAL_BALANCE);
   const exemploContrato = m.contract("Estrutura", [initialBalance]);
 

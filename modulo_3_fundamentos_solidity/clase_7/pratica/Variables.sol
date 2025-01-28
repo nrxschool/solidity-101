@@ -2,10 +2,10 @@
 pragma solidity ^0.8.27;
 
 contract Variables {
-    uint256 public constant TAXA_FIXA = 5; // Taxa fixa em porcentagem
-    address public immutable enderecoToken; // Endereço do token
+    uint256 public constant TASA_FIJA = 5; // Tasa fija en porcentaje
+    address public immutable direccionToken; // Dirección del token
 
-    constructor(address _enderecoToken) {
-        enderecoToken = _enderecoToken;
+    constructor(address _direccionToken) {
+        direccionToken = _direccionToken;
     }
 }

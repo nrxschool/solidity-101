@@ -1,32 +1,32 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.27;
 
-contract DataTypes {
+contract TiposDeDatos {
 
-  // Enum para representar o status de um usuário
-    enum Status { 
-        Ativo, // Status.Ativo = 0
-        Inativo, // Status.Inativo = 1
-        Suspenso // Status.Suspenso = 2
+    // Enum para representar el estado de un usuario
+    enum Estado { 
+        Activo, // Estado.Activo = 0
+        Inactivo, // Estado.Inactivo = 1
+        Suspendido // Estado.Suspendido = 2
     }
 
-    // Mapping para associar um endereço de usuário ao seu status atual
-    mapping(address => Status) public statusUsuarios;
+    // Mapping para asociar una dirección de usuario a su estado actual
+    mapping(address => Estado) public estadoUsuarios;
 
-    // Array dinâmico para armazenar uma lista de endereços de usuários
+    // Array dinámico para almacenar una lista de direcciones de usuarios
     address[] public listaUsuarios;
 
-    function adicionarUsuario(address _usuario) public {
+    function agregarUsuario(address _usuario) public {
         listaUsuarios.push(_usuario); 
-        statusUsuarios[_usuario] = Status.Ativo; 
+        estadoUsuarios[_usuario] = Estado.Activo; 
     }
 
-    function alterarStatus(address _usuario, Status _novoStatus) public {
-        statusUsuarios[_usuario] = _novoStatus; 
+    function cambiarEstado(address _usuario, Estado _nuevoEstado) public {
+        estadoUsuarios[_usuario] = _nuevoEstado; 
     }
 
-    function obterStatus(address _usuario) public view returns (Status) {
-        return statusUsuarios[_usuario];
+    function obtenerEstado(address _usuario) public view returns (Estado) {
+        return estadoUsuarios[_usuario];
     }
 
     function _existeUsuario(address _usuario) private view returns (bool) {
