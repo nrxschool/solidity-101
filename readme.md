@@ -36,10 +36,11 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 7: Introducción a los Smart Contracts](modulo_1_que_es_blockchain/clase_7/clase_7.md)
 - [Clase 8: ¿Qué es Blockchain?](modulo_1_que_es_blockchain/clase_8/clase_8.md)
 
-# Módulo 2: Ferramentas
+# Módulo 2: Herramientas
 
-- [Aula 1: Ferramentas Essenciais](modulo_2_ferramentas/aula_1/aula_1.md)
-- [Aula 2: Criando seu Primeiro Projeto com Hardhat](modulo_2_ferramentas/aula_2/aula_2.md)
+- [Clase 1: Herramientas Esenciales](modulo_2_herramientas/clase_1/clase_1.md)
+- [Clase 2: Creando tu Primer Proyecto con Hardhat](modulo_2_herramientas/clase_2/clase_2.md)
+
 
 # Módulo 3: Fundamentos Solidity
 
