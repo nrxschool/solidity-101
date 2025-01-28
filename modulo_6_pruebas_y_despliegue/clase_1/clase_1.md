@@ -1,4 +1,3 @@
-Aqui está a tradução da aula para espanhol:
 # Clase 1: **Compilando e Implementando tu Contrato**
 
 ## Introducción

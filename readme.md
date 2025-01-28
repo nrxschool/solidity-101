@@ -78,9 +78,9 @@ En 2023, gané cinco hackatones internacionales en el ecosistema de Ethereum, en
 - [Clase 5: Pruebas Unitarias con Hardhat](modulo_6_pruebas_y_despliegue/clase_5/clase_5.md)  
 
 
-# Módulo 7: Projetos
+# Módulo 7: Proyectos
 
-- [Aula 1: Padrões da Indústria: ERC e a Importância dos Padrões](modulo_7_projetos/aula_1/aula_1.md)
-- [Aula 2: Projeto Prático: Crie Seus Próprios NFTs (ERC-721)](modulo_7_projetos/aula_2/aula_2.md)
-- [Aula 3: Projeto Prático: Crie Seu Próprio Token ERC-20](modulo_7_projetos/aula_3/aula_3.md)
-- [Aula 4: Projeto Prático: Loteria Simples em Solidity](modulo_7_projetos/aula_4/aula_4.md)
+- [Clase 1: Estándares de la Industria: ERC y la Importancia de los Estándares](modulo_7_proyectos/clase_1/clase_1.md)  
+- [Clase 2: Proyecto Práctico: Crea Tus Propios NFTs (ERC-721)](modulo_7_proyectos/clase_2/clase_2.md)  
+- [Clase 3: Proyecto Práctico: Crea Tu Propio Token ERC-20](modulo_7_proyectos/clase_3/clase_3.md)  
+- [Clase 4: Proyecto Práctico: Lotería Simple en Solidity](modulo_7_proyectos/clase_4/clase_4.md)  
