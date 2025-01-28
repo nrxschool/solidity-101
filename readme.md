@@ -1,4 +1,4 @@
-### Para ler em português, clique [**aqui**]()
+### Para ler em português, clique [**aqui**](https://github.com/nrxschool/solidity-101/tree/portugues)
 
 __________________________
 
